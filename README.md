@@ -49,4 +49,4 @@ This project analyzes the Telco Customer Churn dataset to identify churn pattern
 - Confusion Matrix
 
 ## Author
-Your name
+Lakni Peiris
